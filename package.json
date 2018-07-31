@@ -1,0 +1,15 @@
+{
+  "name": "gql-core",
+  "version": "0.0.1",
+  "description": "graphql core",
+  "main": "index.ts",
+  "author": "Hugo Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.0.0",
+    "graphql": "^0.13.2",
+    "merge-graphql-schemas": "^1.5.3",
+    "pg": "^7.4.3",
+    "typeorm": "^0.2.7"
+  }
+}
