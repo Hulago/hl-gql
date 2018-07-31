@@ -1,0 +1,6 @@
+type Location {
+  id: Int
+  name: String
+  lat: Int
+  long: Int
+}
